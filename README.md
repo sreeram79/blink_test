@@ -36,7 +36,7 @@ This is a short project and has done with minimal prototype for the given requir
 # Instructions to install, configure, and to run the programs
  use python 36
 
- Configure the local copy by doing github clone command:
+ #Configure the local copy by doing github clone command:
                 ----> main.py
 		----> testsuite.py
 		----> Readme.txt
