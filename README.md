@@ -34,11 +34,9 @@ This is a short project and has done with minimal prototype for the given requir
 
 
 # Instructions to install, configure, and to run the programs
+ use python 36
 
-
-# use python 3,6
-
-# Configure using github clone command:
+ Configure the local copy by doing github clone command:
                 ----> main.py
 		----> testsuite.py
 		----> Readme.txt
@@ -51,7 +49,7 @@ This is a short project and has done with minimal prototype for the given requir
 			 -------> commondef.py
 			 -------> metric_stats.py
 
-#Run:
+ Run:
 	python main.py  ---> to run the simple flow
 	python testsuite.py  --> to run the simple test
 
