@@ -1,8 +1,8 @@
 import os, sys, random, unittest
-import blinktest.csv_file_process
-from blinktest.csv_file_process import CSVFileReader
-from blinktest.masts import MastsRecord
-from blinktest.ra_input import RawInputCommand
+import binktest.csv_file_process
+from binktest.csv_file_process import CSVFileReader
+from binktest.masts import MastsRecord
+from binktest.ra_input import RawInputCommand
 from datetime import datetime
 
 class TestCSVFileReader(unittest.TestCase):

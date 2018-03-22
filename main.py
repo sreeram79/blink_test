@@ -1,7 +1,7 @@
 import os, sys, traceback
-from blinktest.csv_file_process import CSVFileReader
-from blinktest.masts import MastsRecord
-from blinktest.ra_input import RawInputCommand
+from binktest.csv_file_process import CSVFileReader
+from binktest.masts import MastsRecord
+from binktest.ra_input import RawInputCommand
 
 def main():
     
@@ -9,7 +9,6 @@ def main():
         filename = 'Mobile Phone Masts.csv'
         csvfile = CSVFileReader(filename)
         header_list=csvfile.get_headerlist()
-        print(header_list)
         MastsRecordlist = []
         for iter in csvfile.get_data(csvfile.get_row_count()):
             mastrecord = MastsRecord()
