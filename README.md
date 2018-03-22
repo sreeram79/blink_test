@@ -2,9 +2,9 @@
 This is a short project and has done with minimal prototype for the given requirement. 
 #	a)  CSVFileReader class in csv_file_process.py:
 			CSVFileReader class helps in reading the given sample file and extract the data into the dictionary.
-#	b) #MastRecord Class
+#	b) MastsRecord Class
 			MastRecord class helps in holding and computing the values for the given requirements.
-#	c) #RawInputCommand Class
+#	c) RawInputCommand Class
 			RawInputCommand class helps to loop on the requiremnts and gather the inputs from the users and displays the expected results. 
 
 # What can you expect:
@@ -29,30 +29,30 @@ This is a short project and has done with minimal prototype for the given requir
 
 # Test Cases:
 	a) CSVFilereader class
-	b) MastRecord Class
+	b) MastsRecord Class
 	c) missing TODO RawInputCommand
 
 
 # Instructions to install, configure, and to run the programs
 
 
-# Install python 3,6
+# use python 3,6
 
 # Configure using github clone command:
-#		----> main.py
-#		----> testsuite.py
-#		----> Readme.txt
-#		----> Mobile Phone Masts.csv
-#		----> blinktest
-#			  ------> __init__.py
-#			  ------> masts.py
-#			  ------> csv_file_process.py
-#			  ------> ra_input.py
-#			 -------> commondef.py
-#			 -------> metric_stats.py
+                ----> main.py
+		----> testsuite.py
+		----> Readme.txt
+		----> Mobile Phone Masts.csv
+		----> blinktest
+			  ------> __init__.py
+			  ------> masts.py
+			  ------> csv_file_process.py
+			  ------> ra_input.py
+			 -------> commondef.py
+			 -------> metric_stats.py
 
 #Run:
-#	python main.py  ---> to run the simple flow
-#	python testsuite.py  --> to run the simple test
+	python main.py  ---> to run the simple flow
+	python testsuite.py  --> to run the simple test
 
 
