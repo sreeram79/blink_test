@@ -34,14 +34,14 @@ This is a short project and has done with minimal prototype for the given requir
 
 
 # Instructions to install, configure, and to run the programs
- use python 36
+ use python 3.6
 
  # Configure the local copy by doing github clone command:
                 ----> main.py
 		----> testsuite.py
 		----> Readme.txt
 		----> Mobile Phone Masts.csv
-		----> blinktest
+		----> binktest
 			  ------> __init__.py
 			  ------> masts.py
 			  ------> csv_file_process.py
