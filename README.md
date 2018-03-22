@@ -1,19 +1,19 @@
-Introduction:-
+#Introduction:-
 This is a short project and has done with minimal prototype for the given requirement. 
-	a) CSVFileReader class in csv_file_process.py:
+	a) #CSVFileReader class in csv_file_process.py:
 			CSVFileReader class helps in reading the given sample file and extract the data into the dictionary.
-	b) MastRecord Class
+	b) #MastRecord Class
 			MastRecord class helps in holding and computing the values for the given requirements.
-	c) RawInputCommand Class
+	c) #RawInputCommand Class
 			RawInputCommand class helps to loop on the requiremnts and gather the inputs from the users and displays the expected results. 
 
-What can you expect:
+#What can you expect:
 	Hooray !!! Quite happy to say that the very simple things work ;-)
 	a) Reads the sampling file and convert into a objects.
 	b) Selection of choices are given to be selected for each requirements to be displayed 
 	c) OOPS, DRY principle are used whereever possible in a pythonic way.
 	
-What could have been better:
+#What could have been better:
        Well !!!! lot of things but within the expected time frame I couldnt do much.;-(
 	a) Improve exception handling.
 	d) Unable to do boundary testings. 
